@@ -1,0 +1,23 @@
+project Practica_1 is
+
+   for Source_Dirs use ("./**");
+   for Main use ("practica_1V3.adb");
+
+   package Builder is
+      for Default_Switches ("ada") use ("-g");
+   end Builder;
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-g");
+   end Compiler;
+
+   package Linker is
+      for Default_Switches ("ada") use ("-g");
+   end Linker;
+
+   package Check is
+      for Default_Switches ("ada") use ("-d");
+   end Check;
+
+end Practica_1;
+

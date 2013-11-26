@@ -1,0 +1,131 @@
+V "GNAT Lib v2013"
+M P W=b
+A -g
+A -g
+A -gnatA
+P ZX
+
+RN
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_FIXED_POINT
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_UNCHECKED_ACCESS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_ATTRIBUTES
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_ALIASING
+RV SPARK
+
+U practica_1prueba1%b	practica_1prueba1.adb	896d85e0 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+Z ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.decimal_aux%s  a-tideau.adb	a-tideau.ali
+W ada.text_io.decimal_io%s
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20130417131023 3ffc8e18
+D a-except.ads		20130417131019 10fcae55
+D a-finali.ads		20130417131020 52ecdc1b
+D a-flteio.ads		20130417131020 e18a47a0
+D a-inteio.ads		20130417131020 f64b89a4
+D a-ioexce.ads		20130417131020 8b9de6cd
+D a-stream.ads		20130417131021 2ca4ee37
+D a-tags.ads		20130417131022 6c0509d0
+D a-textio.ads		20130417131022 386df5d4
+D a-tideau.ads		20130417131022 d7d2561e
+D a-tideio.ads		20130417131022 1e9d1f0b
+D a-tideio.adb		20130417131022 e8a277df
+D a-tiflio.ads		20130417131022 56fbda09
+D a-tiinio.ads		20130417131022 aa04e5d6
+D a-unccon.ads		20130417131022 f9eb8f06
+D interfac.ads		20130417131027 cb4a8015
+D i-cstrea.ads		20130417131026 8128536b
+D practica_1prueba1.adb	20131016193949 db7a6d2d
+D system.ads		20130417131036 f2f2d889
+D s-crtl.ads		20130417131029 dfcfca61
+D s-exctab.ads		20130417131029 66e51330
+D s-ficobl.ads		20130417131029 55a71d43
+D s-finmas.ads		20130417131029 b95bb341
+D s-finroo.ads		20130417131029 4ff27390
+D s-parame.ads		20130417131032 b6e20cc0
+D s-pooglo.ads		20130417131032 542f33d0
+D s-soflin.ads		20130417131032 24c8153c
+D s-stache.ads		20130417131032 596fc1b4
+D s-stalib.ads		20130417131032 f78bcf95
+D s-stoele.ads		20130417131032 facd7d98
+D s-stoele.adb		20130417131032 afc5dc80
+D s-stopoo.ads		20130417131032 7b8fbeee
+D s-traent.ads		20130417131033 5221ee41
+D s-unstyp.ads		20130417131034 6ae15c76
+D s-wchcon.ads		20130417131034 bfeb2e3d
+D text_io.ads		20130417131036 45d626c9
+X 1 ada.ads
+16K9*Ada 19e8 18|3r6 3r31 4r6 4r29
+X 4 a-flteio.ads
+20K13*Float_Text_IO[13|45] 18|4w10 4r33
+X 5 a-inteio.ads
+18K13*Integer_Text_IO[14|45] 18|3w10 3r35
+X 9 a-textio.ads
+52P9*File_Type(369R9) 18|11r26 77r43
+53n23*In_File{53E9} 18|81r26
+92U14*Open 18|81s7
+166U14*New_Line 18|51s12 62s7 70s11 72s9 87s76 92s13 117s50
+183V13*End_Of_File{boolean} 18|83s17
+242U14*Put 18|49s12 50s12 50s43 66s11 67s11 68s11 87s13 87s44 89s13 90s13
+. 117s4 132s4
+263U14*Put_Line 18|82s7
+X 11 a-tideio.ads
+45k21*Decimal_IO 88e27 18|16r32
+51U14 Get 18|88s13[16]
+67U14 Put 18|69s11[16] 91s13[16]
+X 14 a-tiinio.ads
+65U14*Put 18|50s34[5|18] 50s64[5|18] 65s11[5|18] 87s35[5|18] 87s67[5|18]
+. 117s29[5|18]
+X 18 practica_1prueba1.adb
+6U11*practica_1Prueba1 6b11 133l5 133t22
+7i4 numElem{integer} 19r43 29r47 37r35 46r19 64r21 85r20
+8i4 numCols{integer} 29r35 44r16 63r19
+11p4 ficheroDatos{9|52P9} 116m32 116r32
+12i4 numeroDeDatos{integer} 116m4 117r34
+15D9 coma_fija 16r44 27r17 102r24 102r40
+16K12 coma_fija_IO[11|45] 17r8
+19A9 arrayDeComplejidades(string)<integer> 20r17 40r66
+20a4 complejidad{19A9} 115r22
+23R9 NODO 28e17 29r59
+25i9 Codigo{integer} 47m24 65r28
+26a9 Complejidad{string} 48m24 67r28 89r30
+27d9 tiempo{15D9} 69r28 88m43 91r30
+29A9 arrayDeNodos(23R9)<integer><integer> 30r11 33r30 40r37 58r32 77r67
+30a4 nodos{29A9} 115m15 115r15 116m46 116r46 118r12
+33P9 Enlace(29A9)
+37A9 arrayDeDatos(float)<integer> 38r10
+38a4 dato{37A9}
+40U11 inicializar 40b11 40=23 40>51 56l5 56t16 115s3
+40a23 nodos{29A9} 47m12 48m12
+40a51 complejidad{19A9} 48r38
+41i4 i{integer} 45m9 46r15 47r21 47r33 48r21 48r50 50r39 52m13 52r17
+41i6 j{integer} 43m7 44r13 47r18 48r18 50r69 54m10 54r14
+58U14 imprimir 58b14 58>23 74l5 74t13 118s3
+58a23 nodos{29A9} 65r16 67r16 69r16
+59i4 j{integer} 61m7
+63i11 j{integer} 65r22 67r22 69r22
+64i13 i{integer} 65r25 67r25 69r25
+77V10 leerFichero{integer} 77b10 77=22 77=53 99l5 99t16 116s20
+77p22 ficheroDatos{9|52P9} 81m12 83r30 88r17
+77a53 nodos{29A9} 88m31 88r31 89r18 91r18
+78i4 i{integer} 84m10 85r16 87r72 88r40 89r27 91r27 93m13 93r17 97r14
+78i7 j{integer} 80m7 87r40 88r37 89r24 91r24 95m10 95r14
+102V10 comparar{boolean} 102b10 102>19 102>35 110l6 110t14
+102d19 a{15D9} 106r19 106r26
+102d35 b{15D9} 106r17
+103b7 resultado{boolean} 105m12 107m17 109r16
+X 36 text_io.ads
+24K9*Text_IO=24:29 18|2w6 2r19 11r18
+

@@ -1,0 +1,137 @@
+V "GNAT Lib v2013"
+M P W=b
+A -gnatA
+P ZX
+
+RN
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_FIXED_POINT
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_UNCHECKED_ACCESS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_ATTRIBUTES
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_ALIASING
+RV SPARK
+
+U practica_1%b		practica_1.adb		a3d89e29 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+Z ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.decimal_aux%s  a-tideau.adb	a-tideau.ali
+W ada.text_io.decimal_io%s
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20130417131022 3ffc8e18
+D a-except.ads		20130417131018 10fcae55
+D a-finali.ads		20130417131020 52ecdc1b
+D a-flteio.ads		20130417131020 e18a47a0
+D a-inteio.ads		20130417131020 f64b89a4
+D a-ioexce.ads		20130417131020 8b9de6cd
+D a-stream.ads		20130417131020 2ca4ee37
+D a-tags.ads		20130417131022 6c0509d0
+D a-textio.ads		20130417131022 386df5d4
+D a-tideau.ads		20130417131022 d7d2561e
+D a-tideio.ads		20130417131022 1e9d1f0b
+D a-tideio.adb		20130417131022 e8a277df
+D a-tiflio.ads		20130417131022 56fbda09
+D a-tiinio.ads		20130417131022 aa04e5d6
+D a-unccon.ads		20130417131022 f9eb8f06
+D interfac.ads		20130417131026 cb4a8015
+D i-cstrea.ads		20130417131026 8128536b
+D practica_1.adb	20131013155328 f1cf76e4
+D system.ads		20130417131036 5fc8ae56
+D s-crtl.ads		20130417131028 dfcfca61
+D s-exctab.ads		20130417131028 66e51330
+D s-ficobl.ads		20130417131028 55a71d43
+D s-finmas.ads		20130417131028 b95bb341
+D s-finroo.ads		20130417131028 4ff27390
+D s-parame.ads		20130417131032 b6e20cc0
+D s-pooglo.ads		20130417131032 542f33d0
+D s-soflin.ads		20130417131032 24c8153c
+D s-stache.ads		20130417131032 596fc1b4
+D s-stalib.ads		20130417131032 f78bcf95
+D s-stoele.ads		20130417131032 facd7d98
+D s-stoele.adb		20130417131032 afc5dc80
+D s-stopoo.ads		20130417131032 7b8fbeee
+D s-traent.ads		20130417131032 5221ee41
+D s-unstyp.ads		20130417131034 6ae15c76
+D s-wchcon.ads		20130417131034 bfeb2e3d
+D text_io.ads		20130417131036 45d626c9
+X 1 ada.ads
+16K9*Ada 19e8 18|11r6 11r31 12r6 12r29
+X 4 a-flteio.ads
+20K13*Float_Text_IO[13|45] 18|12w10 12r33
+X 5 a-inteio.ads
+18K13*Integer_Text_IO[14|45] 18|11w10 11r35
+X 9 a-textio.ads
+52P9*File_Type(369R9) 18|17r23
+53n23*In_File{53E9} 18|96r24
+92U14*Open 18|96s4
+183V13*End_Of_File{boolean} 18|97s14
+242U14*Put 18|115s4
+X 11 a-tideio.ads
+45k21*Decimal_IO 88e27 18|28r29
+51U14 Get 18|98s9[28]
+67U14 Put 18|99s9[28]
+X 14 a-tiinio.ads
+65U14*Put 18|70s17[5|18]
+X 18 practica_1.adb
+14U11*practica_1 14b11 116l5 116t15
+15i4 numElem{integer} 41r32 45r32 60r19
+17p1 ficheroDatos{9|52P9} 96m10 96r10 97r27 98r13
+27D6 coma_fija 28r41 30r24
+28K9 coma_fija_IO[11|45] 29r5
+30D9 s_Coma_Fija{27D6} 47r9 82r24 82r42
+33E6 Complex 33e64 34r30 39r22
+33n18 N{33E6}
+33n21 N2{33E6}
+33n25 N3{33E6}
+33n29 N4{33E6}
+33n33 N5{33E6}
+33n37 N6{33E6}
+33n41 LOGN{33E6}
+33n47 DOSN{33E6}
+33n53 UNO{33E6}
+33n58 OTRAS{33E6}
+34E9 s_TipoComplejidad{33E6} 35r14 56r73 62r40
+35e1 complejidad{34E9} 94r22
+36R6 NODO 40e15 41r44
+38i9 Codigo{integer} 61m26 70r31
+39e9 Complejidad{33E6} 62m26
+41A6 arrayDeNodos(36R6)<integer> 42r8 56r37 67r29
+42a1 nodos{41A6} 94m15 94r15 101r13
+45A6 arrayDeDatos(float)<integer> 46r7
+46a1 dato{45A6}
+47d1 tiempo{30D9} 98m27 99r14
+51E6 tipoComplejidad 51e72
+51n26 N{51E6}
+51n29 N2{51E6}
+51n33 N3{51E6}
+51n37 N4{51E6}
+51n41 N5{51E6}
+51n45 N6{51E6}
+51n49 LOGN{51E6}
+51n55 DOSN{51E6}
+51n61 UNO{51E6}
+51n66 OTRAS{51E6}
+56U11 inicializar 56b11 56=23 56>51 65l5 65t16 94s3
+56a23 nodos{41A6} 61m17 62m17
+56e51 pruebaComplejidad{34E9}
+57i4 i{integer} 59m9 60r15 61r23 61r35 62r23 62r62 63m9 63r13
+67U11 imprimir 67b11 67>20 73l5 73t13 101s4
+67a20 nodos{41A6} 69r18 69r31 70r22
+69i13 i{integer} 70r28
+82V10 comparar{boolean} 82b10 82>19 82>37 90l5 90t13
+82d19 a{30D9} 86r19 86r26
+82d37 b{30D9} 86r17
+83b9 resultado{boolean} 85m12 87m17 89r16
+X 36 text_io.ads
+24K9*Text_IO=24:29 18|10w6 10r19 17r15
+
