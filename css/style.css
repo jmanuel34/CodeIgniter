@@ -1,0 +1,30 @@
+/* CSS Document */
+body {
+	margin: 0 auto;
+	background: #333333 url(../images/header.gif) repeat-x;
+	font: normal 16px ‘SolaimanLipi’, ‘Verdana’, ‘Times New Roman’;
+}
+input {
+	font: normal 100% ‘SolaimanLipi’, ‘Verdana’, ‘Times New Roman’;
+	font-size: 16px;
+	float: left;
+}
+select {
+	font: normal 100% ‘SolaimanLipi’, ‘Verdana’, ‘Times New Roman’;
+}
+#header {
+	margin: 0 auto;
+	width: 100%;
+	height: 59px;
+}
+#banner {
+	margin: auto;
+	height: 150px;
+}
+#logo {
+	margin-top: 2.5em;
+	height: 4em;
+	width: 20em;
+	background: url(../images/votebd_admin_logo.png) no-repeat;
+}
+/*page*/
