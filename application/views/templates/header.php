@@ -1,7 +1,86 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml"
 <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type"></meta>
 	<title><?php echo $title ?> - CodeIgniter 2 Tutorial</title>
+        <meta content="xhtml css free templates layouts" name="keywords"></meta>
+
+<meta content="Contenido." name="description"></meta>
+<link href="/css/bigbusiness2/style.css" type="text/css" rel="stylesheet"></link>
+<!-- <link href="/style-narrow.css" media="screen and (max-width: 1280px)" type="text/css" rel="stylesheet"></link> -->
 </head>
 <body>
+    <div id="preview_header">
+
+        <div class="inner">
+            <div class="logo">
+                <div class="logo">
+                    <a target="_top" href="/">
+                        <img alt="FreeCSSTemplates.org - Really, they're free!" src="/images/logo.gif"></img>
+                    </a>
+                </div>
+            </div>
+            <div class="topad"></div>
+                <div id="bsap_1272054" class="bsap_1272054 bsap">
+                    <a id="bsa_3398000" class="ad1 odd" target="_blank" title="Free Website Builder" onmouseout="window.status=''; return true;" onmouseover="window.status = 'http://www.wix.com/website/templates?utm_campaign=ma_freecsstemplates.org&experiment_id=ma_freecsstemplates.org_468genericcustom_cp'; return true;" href="http://stats.buysellads.com/click.go?z=1272054&b=3398000&g=&s=&sw=1680&sh=1050&br=firefox,26,mac&r=0.6396484377305697&link=http://www.wix.com/website/templates?utm_campaign=ma_freecsstemplates.org&experiment_id=ma_freecsstemplates.org_468genericcustom_cp">
+                        <img width="468" height="60" alt="Free Website Builder" src="http://s3.buysellads.com/1272054/166492-1365506024.png">
+                    </a>
+            </div>
+            <div class="share"></div>
+                <ul>
+                    <li class="fb">
+                        <div class="fb-like fb_edge_widget_with_comment fb_iframe_widget" data-show-faces="false" data-width="50" data-layout="button_count" data-send="false" data-href="http://www.freecsstemplates.org/preview/bigbusiness2/" fb-xfbml-state="rendered">
+                            <span style="height: 20px; width: 76px;">
+                                <iframe id="f12277db94b52d6" class="fb_ltr" scrolling="no" name="f132e9a842f1346" style="border: medium none; overflow: hidden; height: 20px; width: 76px;" title="Like this content on Facebook." src="http://www.facebook.com/plugins/like.php?api_key=&channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D28%23cb%3Df325a65d50bb68e%26domain%3Dwww.freecsstemplates.org%26origin%3Dhttp%253A%252F%252Fwww.freecsstemplates.org%252Ff1896b624d54d8e%26relation%3Dparent.parent&colorscheme=light&extended_social_context=false&href=http%3A%2F%2Fwww.freecsstemplates.org%2Fpreview%2Fbigbusiness2%2F&layout=button_count&locale=en_US&node_type=link&sdk=joey&send=false&show_faces=false&width=90">             
+                                </iframe>
+                            </span>
+                        </div>
+                        
+                    <li class="gp">
+                        <div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: none repeat scroll 0% 0% transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px;">
+                            <iframe id="I0_1389921234036" width="100%" scrolling="no" frameborder="0" hspace="0" marginheight="0" marginwidth="0" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" name="I0_1389921234036" src="https://apis.google.com/u/0/_/+1/fastbutton?usegapi=1&bsv=o&size=medium&origin=http%3A%2F%2Fwww.freecsstemplates.org&url=http%3A%2F%2Fwww.freecsstemplates.org%2Fpreview%2Fbigbusiness2%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es.P3FZBjaha1w.O%2Fm%3D__features__%2Fam%3DIQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTPDVSJxC2fGbjNBuiJ0TAzxl82Lmw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I0_1389921234036&parent=http%3A%2F%2Fwww.freecsstemplates.org&pfname=&rpctoken=21771627" data-gapiattached="true" title="+1">
+                                <!DOCTYPE html>
+                                <html lang="es" dir="ltr">
+                                    <head>
+                                        <base href="https://apis.google.com/u/0/wm/1/">                                          
+                                        <style>
+                                            body {-webkit-font-smoothing: antialiased;}@font-face {
+                                            font-family: 'Roboto';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            src: url(//ssl.gstatic.com/fonts/roboto/v10/xZQOmYg4x3YaWkTJi1kErvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+                                            }
+                                        </style>
+                                        <link href="/_/scs/apps-static/_/ss/k=oz.plusone.-1x3x9fwikm5e6.L.F4.O/rs=AItRSTPy46-E6bY7t1VVaeRuRaSE5npyAA" rel="stylesheet">
+                                            .d-k-l{position:relative;display:-moz-inline-box;display:inline-block}* html .d-k-l,*:first-child+html .d-k-l{display:inline}.OIa{-moz-border-radius:3px;border-radius:3px;background-color:#fff;border:1px solid #ccc;height:19px;padding:5px 0}.Dga{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) 0 0;height:5px;margin-left:auto;margin-right:auto;margin-top:-1px;width:7px}.PIa{font-size:15px;height:35px;margin-bottom:5px;overflow:hidden;text-align:center}.in .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) -42px -16px;height:15px;width:5px}.in .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) 0 -73px;height:15px;width:2px}.wm .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) -27px -36px;height:20px;width:6px}.wm .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) -24px -36px;height:20px;width:2px}.jn .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) 0 -36px;height:24px;width:6px}.jn .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) -45px -36px;height:24px;width:2px}.wh .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) 0 -36px;height:24px;width:6px}.wh .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-e63a56248fe873b92b3cab26945f7793.png) -45px -36px;height:24px;width:2px}@media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx){.Dga{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -67px -33px/156px 50px;height:5px;width:7px}.in .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -62px -33px/156px 50px;height:15px;width:5px}.in .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -60px -33px/156px 50px;height:15px;width:2px}.wm .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -94px -19px/156px 50px;height:20px;width:6px}.wm .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -54px 0/156px 50px;height:20px;width:2px}.jn .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -54px -20px/156px 50px;height:24px;width:6px}.jn .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -154px 0/156px 50px;height:24px;width:2px}.wh .Gr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -54px -20px/156px 50px;height:24px;width:6px}.wh .Hr{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/sprites/plus-button-hdpi-1b54dbdf122778fe002019a274ea63cc.png) -154px 0/156px 50px;height:24px;width:2px}}.FP{border:1px solid #d5d5d5;border:1px solid rgba(0,0,0,.17);-moz-border-radius:2px;border-radius:2px;-moz-box-shadow:0 1px 0 rgba(0,0,0,.05);box-shadow:0 1px 0 rgba(0,0,0,.05);-moz-box-sizing:border-box;box-sizing:border-box;-moz-transition:background-color .218s,border-color .218s,box-shadow .218s;transition:background-color .218s,border-color .218s,box-shadow .218s;-moz-user-select:none;background-color:#fff;background-image:none;color:#262626;cursor:pointer;outline:none;overflow:hidden;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}.FP:hover{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-moz-box-shadow:0 1px 0 rgba(0,0,0,0.1);box-shadow:0 1px 0 rgba(0,0,0,0.1)}.FP:active{background-color:#e5e5e5;border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-moz-box-shadow:inset 0 1px 0 #ddd;box-shadow:inset 0 1px 0 #ddd;color:#262626}.t7{background-color:#f5f5f5;color:#262626}.t7:active{background-color:#e5e5e5;color:#262626}.ud,.jd,.nd,.rd{border:none;-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);box-shadow:0 1px 0 rgba(0,0,0,.1);color:#fff}.ud:hover,.jd:hover,.nd:hover,.rd:hover{border:none;-moz-box-shadow:inset 0 -2px 0 rgba(0,0,0,.2);box-shadow:inset 0 -2px 0 rgba(0,0,0,.2);color:#fff}.ud:active,.jd:active,.nd:active,.rd:active{border:none;-moz-box-shadow:inset 0 2px 0 rgba(0,0,0,.2);box-shadow:inset 0 2px 0 rgba(0,0,0,.2);color:#fff}.ud{background-color:#53a93f}.ud:hover{background-color:#65b045}.ud:active{background-color:#3e802f}.jd{background-color:#dd4b39}.jd:hover{background-color:#e74b37}.jd:active{background-color:#be3e2e}.nd{background-color:#427fed}.nd:hover{background-color:#4285f4}.nd:active{background-color:#2c56b1}.rd{background-color:#737373}.rd:hover{background-color:#808080}.rd:active{background-color:#404040}.Wd,.Wd:hover,.Wd:active{background-color:#e5e5e5;border:none;-moz-box-shadow:none;box-shadow:none;color:#aaaaaa}.s7{float:left}.u7{display:block}.Nr{fill:#dd4b38}.ud .Nr,.jd .Nr,.nd .Nr,.rd .Nr,.Wd .Nr{fill:#fff}.hma{font-family:Roboto,arial,sans-serif;font-size:12px;font-weight:700;margin-left:6px;margin-right:6px;vertical-align:top}.Ul{height:100%;width:100%}.ud .Ul,.jd .Ul,.nd .Ul,.rd .Ul,.Wd .Ul{border:1px solid transparent}.q7,.GP{display:none;height:100%;width:100%}.hva,.iva{margin-left:auto;margin-right:auto}.uk,.Nl{border:1px solid #d5d5d5;border:1px solid rgba(0,0,0,.17);-moz-box-shadow:0 1px 0 rgba(0,0,0,.05);box-shadow:0 1px 0 rgba(0,0,0,.05);color:#262626}.uk:hover,.Nl:hover{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-moz-box-shadow:0 1px 0 rgba(0,0,0,0.1);box-shadow:0 1px 0 rgba(0,0,0,0.1)}.uk:active,.Nl:active{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-moz-box-shadow:inset 0 1px 0 #ddd;box-shadow:inset 0 1px 0 #ddd;color:#262626}.Nl,.Nl:hover{background-color:#f5f5f5}.Nl:active{background-color:#e5e5e5}.uk,.uk:hover{background-color:#fff}.uk:active{background-color:#e5e5e5}.Nl .GP,.uk .q7{display:block}.uk .Ul,.Nl .Ul,.uk .GP{display:none}.ima{background-position:top left;background-repeat:no-repeat}.HP,.HP:hover,.HP:active{color:#dd4b39}.uzlpSb{fill:#dd4b38}.ud .uzlpSb,.jd .uzlpSb,.nd .uzlpSb,.rd .uzlpSb,.Wd .uzlpSb{fill:#fff}.dIa{float:left;white-space:nowrap}.Ina{cursor:pointer;display:block;outline:0;position:relative;text-decoration:none}.B8{vertical-align:top;color:#666;font-family:Roboto,arial,sans-serif}.b1{background:no-repeat url(//ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png) 0 -68px;height:35px;width:50px;text-align:center;margin-bottom:5px;overflow:hidden}.b1 .IY{padding-top:6px}.b1{font-size:15px}.Jp,.bp,.ap{float:left}.bK,.cK{background:transparent no-repeat url(//ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png);float:left}.HI{background:#fff;border:1px solid #ccc;border-left-style:none;border-right-style:none;float:left;position:relative}.Oy{color:#666;font-family:Roboto,arial,sans-serif;overflow:hidden;white-space:nowrap}.Jp{padding-left:2px;padding-right:2px}.Jp .bK{background-position:0 -704px;height:15px;width:5px}.Jp .cK{background-position:-34px -704px;height:15px;width:2px}.Jp .HI{max-width:43px;min-width:5px}.Jp .Oy{font-size:10px;margin:1px 5px;height:11px;line-height:12px}.bp{padding-left:1px;padding-right:1px}.bp .bK{background-position:0 -191px;height:20px;width:6px}.bp .cK{background-position:-45px -191px;height:20px;width:2px}.bp .HI{max-width:53px;min-width:10px}.bp .Oy{font-size:11px;margin:1px 6px;height:16px;line-height:17px}.ap{padding-left:1px;padding-right:1px}.ap .bK{background-position:0 -363px;height:24px;width:6px}.ap .cK{background-position:-55px -363px;height:24px;width:2px}.ap .HI{max-width:63px;min-width:12px}.ap .Oy{font-size:12px;margin:1px 6px;height:20px;line-height:21px}.A8{color:#666;font:11px Roboto,arial,sans-serif;line-height:1;white-space:normal;display:inline-block}.zra{border:1px solid #666}.Ara{vertical-align:top;display:inline-block}.Bra{padding-left:1px}.Jda{color:#427fed;text-decoration:none}.wfa{vertical-align:top;padding-right:5px;white-space:nowrap}.b6{border-collapse:collapse;display:table}.D8{display:table-row}.gP{border-spacing:0;display:table-cell;font-size:11px;padding:0;text-align:left}.A8.fja{display:inline;overflow:hidden;padding-bottom:.1em;text-overflow:ellipsis;white-space:nowrap}.eja{line-height:10px!important}.bIa{width:100%;padding-left:8px}.KLa{color:#333;font-family:Roboto,arial,sans-serif;font-size:16px;font-weight:bold;margin-top:3px}.dca{color:#222;font-family:Roboto,arial,sans-serif;font-size:11px;margin-top:-3px}.S8 .dca{color:#fff}.aIa{padding-top:5px;vertical-align:top}.kv8eNc{background-color:transparent;margin:0;padding:0}.D5jmcc{background-color:#f5f5f5;margin:0;padding:5px}sentinel{}
+                                        </link>
+                                        <script>
+function __sp() {try {var params = {};params['height'] = 20.0 ;params['width'] = 90.0 ;params['title'] = '+1';} catch (e) {return null}return params;}var _F_jsUrl = "\/_\/scs\/apps-static\/_\/js\/k\x3doz.plusone.es.bICEi0yraDw.O\/m\x3dp1b,p1p\/rt\x3dj\/d\x3d1\/rs\x3dAItRSTPLIC7iAAytvTobP5-OqC-Qmbbq2g";var gapi=window.gapi=window.gapi||{};(function() { var f=function(a,c){var d=a.match(RegExp(".*(\\?|#|&)"+c+"=([^&#]+)"))||[];return decodeURIComponent(d[d.length-1]||"")},r=function(a,c){g(l(),a,c)},s=function(a,c){g(!0,a,c)},g=function(a,c,d){function t(b){if(!b.match(/^https?\:\/\//))return"";var a=m.createElement("a");a.href=b;a.pathname=a.search=a.hash="";return a.href.replace(/\/\??\#?$/,"")}function n(){a?(e.s=p+"/"+h+":"+p+":"+e.s,e.g=!1,d&&(e.a=d.slice(1)),b.parent.postMessage("!_"+b.JSON.stringify(e),q||"*")):b.parent.postMessage(b.JSON.stringify(e),
+q||"*")}var b=window,m=b.document;if(b.postMessage&&b.JSON&&b.JSON.stringify&&b!=b.parent){var h=b.name,k=b.location.href,q=t(f(k,"parent")),p=f(k,"pfname"),e={s:c,f:h,r:h,t:f(k,"rpctoken"),a:d||[""],g:"ping"};m.all?b.setTimeout(n,0):n()}},u=function(a,c){g(!1,"widget-csi-tick-"+window.name,[a,null,c])},l=function(a){var c=window;return"1"===f(a||c.location.href,"usegapi")};window.gapi.inline=window.gapi.inline||{ping:r,tick:u,shouldUseGapi:l,pingGapi:s}; })();
+var sentRenderStart = false; function gapi_sendRenderStart() {if (sentRenderStart) {return}sentRenderStart = true; var sz = __sp(); if (sz) gapi.inline.ping('_renderstart', ['', sz]);}
+</script>    
+                                        </base>
+                                        
+                                </html>    
+                            </iframe>
+                        </div>
+                    <li class="t">
+                </ul>
+                <br class="clear"></br>
+                <div class="menu">
+                    <div class="menu">
+                        <ul>
+                            <li>
+                                <a class="active button-download" href="/download/zip/bigbusiness2/">Download .zip</a>
+                            </li>
+                            <li>
+                                <a href="javascript:history.back();">Go Back</a>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                </div>
+        </div>
+    </div>
 	<h1>CodeIgniter 2 Tutorial</h1>
 
